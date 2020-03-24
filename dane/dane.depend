@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1585083559 source:/home/weronika/Pulpit/ll/dane/main.cpp
+	<iostream>
+	<list>
+	<stack>
+	<queue>
+	<map>
+	"lista.hh"
+	"stack.hh"
+	"map.hh"
+	"queue.hh"
+	"pq.hh"
+
+1585082593 /home/weronika/Pulpit/ll/dane/lista.hh
+	<iostream>
+	<cmath>
+	<iterator>
+	<list>
+	"lista.hh"
+
+1585082276 /home/weronika/Pulpit/ll/dane/stack.hh
+	<iostream>
+	<cmath>
+
+1585082666 /home/weronika/Pulpit/ll/dane/map.hh
+	<iostream>
+	<cmath>
+
+1585082822 /home/weronika/Pulpit/ll/dane/queue.hh
+	<iostream>
+	<cmath>
+
+1585083823 /home/weronika/Pulpit/ll/dane/pq.hh
+	<iostream>
+	<cmath>
+
