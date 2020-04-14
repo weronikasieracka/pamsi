@@ -34,3 +34,38 @@
 	<iostream>
 	<cmath>
 
+1585084403 source:/home/weronika/git_pamsi/pamsi/dane/main.cpp
+	<iostream>
+	<list>
+	<stack>
+	<queue>
+	<map>
+	"lista.hh"
+	"stack.hh"
+	"map.hh"
+	"queue.hh"
+	"pq.hh"
+
+1585082593 /home/weronika/git_pamsi/pamsi/dane/lista.hh
+	<iostream>
+	<cmath>
+	<iterator>
+	<list>
+	"lista.hh"
+
+1585082276 /home/weronika/git_pamsi/pamsi/dane/stack.hh
+	<iostream>
+	<cmath>
+
+1585649771 /home/weronika/git_pamsi/pamsi/dane/map.hh
+	<iostream>
+	<cmath>
+
+1585082822 /home/weronika/git_pamsi/pamsi/dane/queue.hh
+	<iostream>
+	<cmath>
+
+1585083823 /home/weronika/git_pamsi/pamsi/dane/pq.hh
+	<iostream>
+	<cmath>
+

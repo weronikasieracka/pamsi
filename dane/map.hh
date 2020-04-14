@@ -110,8 +110,10 @@ void Map<KeyType,ValueType>::insert(const KeyType& key, const ValueType& value)
     int hashIndex = hashCode(key); //definiujemy, aby znaleźć indeks dla danego klucza
          while(b[hashIndex] != NULL && b[hashIndex]->key != key && b[hashIndex]->key != -1) //szukamy wolne miejsce
          {
-
+            hashIndex++;
+            hashIndex %= capacity;
          }
+         // jeśli nowy element, który ma zostać wstawiony, zwiększ bieżący rozmiar
          if(b[hashIndex] == NULL || b[hashIndex]->key == -1)
             size++;
         b[hashIndex] = temp;
