@@ -280,7 +280,7 @@ void reverse (T tab[], int size)
 int main()
 {
 	double tab_time[100];
-	int tab[10000];
+	int tab[1000000];
 	int size = sizeof(tab)/sizeof(tab[0]);
 	int max_depth = log(size) * 2;
 	//time_begin=clock();
