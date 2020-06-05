@@ -1,0 +1,10 @@
+﻿  Checkers.cpp
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(157,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(157,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(163,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(163,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(169,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(169,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(175,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebas\source\repos\Project4\Project4\Checkers.cpp(175,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project4.vcxproj -> C:\Users\sebas\source\repos\Project4\x64\Debug\Project4.exe
